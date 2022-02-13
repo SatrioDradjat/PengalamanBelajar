@@ -19,3 +19,4 @@
 **Day 5**
 * hari ini saya sudah menyelesaikan kelas Pengenalan ke Logika Pemrograman (Programming Logic 101) namun dikarenakan adanya masalah pada website dicoding maka kelas tersebut belum sepenuhnya selesai. jika website sudah benar saya akan melanjutkan kelas yang ada untuk memperoleh check point minggu ini.
 
+### Laporan Minggu 2
